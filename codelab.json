@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-07-12T15:00:07Z",
+  "id": "handson-aws-serverless-translate",
+  "duration": 55,
+  "title": "AWSハンズオンサーバーレス入門",
+  "authors": "kappa0923",
+  "summary": "AWSハンズオンサーバーレス入門",
+  "source": "10tdfmqnXmimXF9r-_MO6UTrnZlOrL2Xy2YBef_PRJbs",
+  "theme": "node-js",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "Node.js",
+    "html"
+  ],
+  "tags": [],
+  "feedback": "https://github.com/kappa0923/handson-aws-serverless-translate/issues",
+  "url": "handson-aws-serverless-translate"
+}
