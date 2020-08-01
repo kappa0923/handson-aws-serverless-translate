@@ -3,13 +3,13 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-07-12T15:00:07Z",
+  "updated": "2020-08-01T07:48:06Z",
   "id": "handson-aws-serverless-translate",
   "duration": 55,
   "title": "AWSハンズオンサーバーレス入門",
   "authors": "kappa0923",
   "summary": "AWSハンズオンサーバーレス入門",
-  "source": "10tdfmqnXmimXF9r-_MO6UTrnZlOrL2Xy2YBef_PRJbs",
+  "source": "",
   "theme": "node-js",
   "status": [
     "draft"
